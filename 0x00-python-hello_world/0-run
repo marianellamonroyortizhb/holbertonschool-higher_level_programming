@@ -1,2 +1,2 @@
-#!/bin/bash  # * MM 24/Jan/2021 *
+#!/bin/bash
 python3 $PYFILE  # The variable $PYFILE saved the name of the file to execute.

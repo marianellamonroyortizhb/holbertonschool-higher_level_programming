@@ -1,2 +1,2 @@
-#!/bin/bash  # * MM 24/Jan/2021 *
+#!/bin/bash
 echo $PYCODE | python3  # The code is saved in $PYCODE and executed in python3.
