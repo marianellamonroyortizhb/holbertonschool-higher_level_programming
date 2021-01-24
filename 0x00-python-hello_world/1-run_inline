@@ -1,2 +1,2 @@
 #!/bin/bash  # * MM 24/Jan/2021 *
-echo $PYCODE | python3  # First the code is save in $PYCODE, then is execute with python3.
+echo $PYCODE | python3  # The code is saved in $PYCODE and executed in python3.
