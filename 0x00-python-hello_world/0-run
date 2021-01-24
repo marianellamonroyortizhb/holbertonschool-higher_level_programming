@@ -1,4 +1,2 @@
-#!/bin/bash
-python3 $PYFILE
-# The enviromental variable $PYFILE saved the name of the file to execute.
-# * MM 24/Jan/2021 *
+#!/bin/bash  # * MM 24/Jan/2021 *
+python3 $PYFILE  # The variable $PYFILE saved the name of the file to execute.
