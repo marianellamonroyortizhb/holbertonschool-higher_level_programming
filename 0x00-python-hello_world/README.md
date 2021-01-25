@@ -1,4 +1,5 @@
-<div align="center"><img src="Banner.jpg"/>
+<div align="center"><img src="Banner.jpg"/></div>
+
 # 0x00. Python - Hello, World
 
 ## Project Goals :bulb:
