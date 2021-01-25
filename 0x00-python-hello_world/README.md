@@ -1,4 +1,4 @@
-![GitHub Logo](/Banner.jpg)
+<div align="center"><img src="Banner.jpg"/>
 # 0x00. Python - Hello, World
 
 ## Project Goals :bulb:
@@ -9,45 +9,58 @@ In this first project an introduction to the world of Python is made, the follow
 
 ---
 
-### [0. Run Python file](./0-run) : Write a Shell script that runs a Python script.
+### [0. Run Python file](./0-run) :
+Write a Shell script that runs a Python script.
 
 
-### [1. Run inline](./1-run_inline): Write a Shell script that runs Python code.
+### [1. Run inline](./1-run_inline):
+Write a Shell script that runs Python code.
 
 
-### [2. Hello, print](./2-print.py): Write a Python script using escape characters, single and double quotes.
+### [2. Hello, print](./2-print.py):
+Write a Python script using escape characters, single and double quotes.
 
 
-### [3. Print integer](./3-print_number.py): Print the integer stored in the variable number, followed by an string.
+### [3. Print integer](./3-print_number.py):
+Print the integer stored in the variable number, followed by an string.
 
 
-### [4. Print float](./4-print_float.py): Print the float stored in the variable number with a precision of 2 digits.
+### [4. Print float](./4-print_float.py):
+Print the float stored in the variable number with a precision of 2 digits.
 
 
-### [5. Print string](./5-print_string.py): Print 3 times a string stored in the variable str, followed by its first 9 characters.
+### [5. Print string](./5-print_string.py):
+Print 3 times a string stored in the variable str, followed by its first 9 characters.
 
 
-### [6. Play with strings](./6-concat.py): Print a string using concatenation.
+### [6. Play with strings](./6-concat.py):
+Print a string using concatenation.
 
 
-### [7. Copy - Cut - Paste](./7-edges.py) Print a string using slicing.
+### [7. Copy - Cut - Paste](./7-edges.py)
+Print a string using slicing.
 
 
-### [8. Create a new sentence](./8-concat_edges.py): Print a string using slicing and concatenation.
+### [8. Create a new sentence](./8-concat_edges.py):
+Print a string using slicing and concatenation.
 
 
-### [9. Easter Egg](./9-easter_egg.py): Write a Python script that prints “The Zen of Python”, by TimPeters.
+### [9. Easter Egg](./9-easter_egg.py):
+Write a Python script that prints “The Zen of Python”, by TimPeters.
 
 
-### [10. Linked list cycle](./10-check_cycle.c): Technical interview preparation:
+### [10. Linked list cycle](./10-check_cycle.c):
+Write a function in C that checks if a singly linked list has a cycle in it.
+
+### [11. Hello, write](./100-write.py):
+Write a Python script using the function write from the sys module, that prints to stderr, with the exit status code = 1.
 
 
-### [11. Hello, write](./100-write.py): Write a Python script using the function write from the sys module, that prints to stderr, with the exit status code = 1.
+### [12. Compile](./101-compile):
+Write a script that compiles a Python script file and with the output filename: my_main.pyc.
 
-
-### [12. Compile](./101-compile): Write a script that compiles a Python script file and with the output filename: my_main.pyc.
-
-### [13. ByteCode -> Python #1](./102-magic_calculation.py): Write the Python function def magic_calculation (a, b) corresponding to a Python bytecode.
+### [13. ByteCode -> Python #1](./102-magic_calculation.py):
+Write the Python function def magic_calculation (a, b) corresponding to a Python bytecode.
 
 ---
 
