@@ -1,4 +1,4 @@
-<div align="center"><img src="Banner.jpg"/></div>
+<div align="center"><img src="images/Banner.jpg"/></div>
 
 # 0x00. Python - Hello, World
 
