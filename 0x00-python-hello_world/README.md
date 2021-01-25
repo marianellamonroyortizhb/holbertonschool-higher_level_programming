@@ -35,15 +35,15 @@ Print 3 times a string stored in the variable str, followed by its first 9 chara
 
 
 ### [6. Play with strings](./6-concat.py):
-Print a string using concatenation.
+Print a string with concatenation.
 
 
 ### [7. Copy - Cut - Paste](./7-edges.py)
-Print a string using slicing.
+Print a string with slicing.
 
 
 ### [8. Create a new sentence](./8-concat_edges.py):
-Print a string using slicing and concatenation.
+Print a string with slicing and concatenation.
 
 
 ### [9. Easter Egg](./9-easter_egg.py):
