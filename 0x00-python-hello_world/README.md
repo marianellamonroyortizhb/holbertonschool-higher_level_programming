@@ -2,7 +2,7 @@
 
 # 0x00. Python - Hello, World
 
-## Project Goals :bulb:
+## Project Goals :dart:
 In this first project an introduction to the world of Python is made, the following topics were specially analyzed:
 * Historical :black_nib:: Who created Python, who is Guido van Rossum, where does the name ‘Python’ come from, what is the Zen of Python.
 
@@ -66,4 +66,4 @@ Write the Python function def magic_calculation (a, b) corresponding to a Python
 ---
 
 ## Author
-* **Marianella Monroy Ortiz** - [marianellamonroyortizhb](https://github.com/marianellamonroyortizhb)
+* **Marianella Monroy Ortiz** :sunflower: - [marianellamonroyortizhb](https://github.com/marianellamonroyortizhb)
