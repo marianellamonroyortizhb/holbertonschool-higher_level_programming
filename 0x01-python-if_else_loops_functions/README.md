@@ -3,7 +3,7 @@
 # 0x01. Python - if/else, loops, functions
 
 ## Project Goals :dart:
-In this project start the concepts of if, else, loops and fuctions. The following topics were specially analyzed:
+In this project start the concepts of if, else, loops and functions. The following topics were specially analyzed:
 
 * Technical :toolbox:: if, else statements. While and for loops. Break, continue, pass and return. Functions, variables and their scope. Arithmetic operators. Range. Traceback.
 
