@@ -1,2 +1,5 @@
 #!/usr/bin/python3
-def print_last_digit(number):
+alpha = ""
+for indice in range(97, 123):
+    alpha = alpha + chr(indice)
+print(str(alpha))
