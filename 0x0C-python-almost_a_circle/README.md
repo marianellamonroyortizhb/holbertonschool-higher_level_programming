@@ -5,7 +5,7 @@
 ## Project Goals :dart::
 The main topics of this project consist of:
 
-Implement unit tests in a large project. Serialize and deserialize a class. Process for writing and reading a JSON file. * args and ** kwargs, their use and handling of named arguments in a function.
+Technical :toolbox:: Implement unit tests in a large project. Serialize and deserialize a class. Process for writing and reading a JSON file. * args and ** kwargs, their use and handling of named arguments in a function.
 
 ---
 
