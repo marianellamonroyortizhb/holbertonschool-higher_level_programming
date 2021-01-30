@@ -5,7 +5,7 @@
 ## Project Goals :dart:
 In this project start the concepts of if, else, loops and functions. The following topics were specially analyzed:
 
-* Technical :toolbox:: if, else statements. While and for loops. Break, continue, pass and return. Functions, variables and their scope. Arithmetic operators. Range. Traceback.
+* Technical :toolbox:: If and else statements. While and for loops. Break, continue, pass and return. Functions, variables and their scope. Arithmetic operators. Range. Traceback.
 
 * Miscellaneous :paperclips:: Why indentation is so important in Python. How to use comments. How is Python’s for different from C‘s?
 
