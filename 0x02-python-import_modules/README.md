@@ -5,7 +5,7 @@
 ## Project Goals :dart:
 The main topics of this project consist of:
 
-* Technical :toolbox:: Import functions from another file and use it. Create modules. The built-in function dir(). How to revent that code in your script from being executed when imported. Use command line arguments in Python programs.
+* Technical :toolbox:: Import functions from another file and use it. Create modules. The built-in function dir(). How to prevent that code in your script from being executed when imported. Use command line arguments in Python programs.
 
 ---
 
