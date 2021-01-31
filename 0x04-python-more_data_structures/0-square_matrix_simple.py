@@ -5,3 +5,4 @@ def square_matrix_simple(matrix=[]):
     for ind in range(size):
         square_mtx[ind] = list(map(lambda n: n**2, square_mtx[ind]))
     return (square_mtx)
+
