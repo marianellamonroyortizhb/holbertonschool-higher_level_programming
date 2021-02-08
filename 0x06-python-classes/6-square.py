@@ -42,9 +42,13 @@ class Square:
 
     def my_print(self):
         if self.size != 0:
-            for count1 in range(0, self.size):
-                for count2 in range(0, self.size):
-                    print("#", end="")
-                print("")
+            for ind1 in range(self.position[1]):
+                print()
+            for ind1 in range(self.size):
+                for ind2 in range(self.position[0]):
+                    print(" ", end="")
+                for ind2 in range(self.size):
+                        print("#", end="")
+                print()
         else:
-            print("")
+            print()
