@@ -3,5 +3,5 @@
 
 
 class Square:
-    """An empty class called Square Was born"""
+    """An empty class called Square was born"""
     pass
