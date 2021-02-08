@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Defining Square with size and area considering errors"""
+"""Defining Square with size and area considering errors and using setter"""
 
 
 class Square:
