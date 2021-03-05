@@ -1,5 +1,5 @@
 -- Creates an user
 -- Check if the user exists
-CREATE USER IF NOT EXISTS 'user_0d_1' @'localhost' IDENTIFIED BY 'user_0d_1_pwd';
-GRANT ALL PRIVILEGES ON *.* TO 'user_0d_1' @'localhost' IDENTIFIED BY 'user_0d_1_pwd';
-FLUSH PRIVILEGES;
+CREATE DATABASE IF NOT EXISTS hbtn_0d_2;
+GRANT SELECT ON hbtn_0d_2.* TO 'user_02d_2' @'localhost' IDENTIFIED BY 'user_0d2_2_pwd';
+
