@@ -1,2 +1,2 @@
--- Displays the average temperature by city ordered by descending temperature.
-SELECT city, AVG(value) AS avg_temp;
+-- Displays the top 3 average temperature.
+SELECT city, AVG(value) AS avg_temp FROM temperatures WHERE month = 7 month = 8 GROUP BY city ORDER BY avg_temp DESC LIMIT 3;
