@@ -1,2 +1,14 @@
+
 #!/usr/bin/python3
-void print_python_list(PyObject *p);
+def magic_calculation(a, b):
+    add = 0
+    for i in range(1, 3):
+        try:
+            if i > a:
+                raise Exception('Too far')
+            else:
+                add += a ** b / i
+        except:
+            add = a + b
+            break
+    return add
