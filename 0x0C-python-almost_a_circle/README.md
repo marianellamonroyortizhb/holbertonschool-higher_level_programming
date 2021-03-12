@@ -1,16 +1,27 @@
-<div align="center"><img src="images/Banner.jpg"/></div>
-
 # 0x0C. Python - Almost a circle
 
-## Project Goals :dart::
-The main topics of this project consist of:
+## Resources:books:
+Read or watch:
+* [args/kwargs](https://intranet.hbtn.io/rltoken/LroIjBBI5Gqq3ciR-OHmxg)
+* [JSON encoder and decoder](https://intranet.hbtn.io/rltoken/TY4rfu2AZtXlRmPVNZm1Lw)
+* [unittest module](https://intranet.hbtn.io/rltoken/T7uxwxtGdbRRW9pkD4eO0g)
+* [Python test cheatsheet](https://intranet.hbtn.io/rltoken/SfEo3RQeAXXYI9yabFRw3g)
 
-Technical :toolbox:: Implement unit tests in a large project. Serialize and deserialize a class. Process for writing and reading a JSON file. * args and ** kwargs, their use and handling of named arguments in a function.
+---
+## Learning Objectives:bulb:
+What you should learn from this project:
+
+* What is Unit testing and how to implement it in a large project
+* How to serialize and deserialize a Class
+* How to write and read a JSON file
+* What is *args and how to use it
+* What is **kwargs and how to use it
+* How to handle named arguments in a function
 
 ---
 
 ### [0. If it's not tested it doesn't work](./tests/)
-* All your files, classes and methods must be unit tested and be PEP 8 validated.
+* All your files, classes and methods must be unit tested and be PEP 8 validated. 
 
 
 ### [1. Base class](./models/base.py)
@@ -99,4 +110,4 @@ Technical :toolbox:: Implement unit tests in a large project. Serialize and dese
 ---
 
 ## Author
-* **Marianella Monroy Ortiz** :sunflower: - [marianellamonroyortizhb](https://github.com/marianellamonroyortizhb)
+* **Marianella Monroy Ortiz** - [marianellamonroyortizhb](https://github.com/marianellamonroyortizhb)
