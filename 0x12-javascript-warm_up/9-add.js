@@ -7,4 +7,4 @@ function add (a, b) {
 const arg1 = process.argv[2];
 const arg2 = process.argv[3];
 
-add(parseInt(arg1, arg2);
+add(parseInt(arg1), parseInt(arg2));
