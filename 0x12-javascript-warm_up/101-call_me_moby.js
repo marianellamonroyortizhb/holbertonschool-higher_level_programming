@@ -2,7 +2,7 @@
 
 exports.callMeMoby = function (x, theFunction) {
   let counter = 0;
-  for ( counter < x; counter++) {
+  for (counter; counter < x; counter++) {
     TheFunction();
   }
 };
