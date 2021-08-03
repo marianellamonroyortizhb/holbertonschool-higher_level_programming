@@ -1,8 +1,8 @@
 #!/usr/bin/node
 let mult;
-const Arg1 = parseInt(process.argv[2]);
+const Arg1= process.argv[2];
 
-if (Arg1) {
+if (parseInt(Arg1)) {
   for (mult = 1; mult <= Arg1; mult++) {
     console.log('C is Fun');
   }
