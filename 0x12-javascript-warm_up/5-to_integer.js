@@ -1,5 +1,4 @@
 #!/usr/bin/node
-parseInt();
 
 if (process.argv[2] == null) {
   console.log('Not a number');
